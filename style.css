@@ -1,0 +1,69 @@
+h1{
+    font-size: 50px;
+    margin: auto;
+    border-left: 3px solid red;
+    
+}
+.color{
+    color: orangered;
+}
+section{
+    display: flex;
+    margin: 7%;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 70%;
+}
+.button{
+    color: white;
+    width: 10px 30px;
+    background-color: orange;
+    border: none;
+    border-radius: 5%;
+}
+.blue{
+    color: rgb(12, 12, 39);
+}
+.orange{
+    color: orangered;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 150px;
+}
+.mission{
+    width: 250px;
+    border: 1px solid gray;
+    box-shadow: 4px 4px 10px;
+    border-radius: 5px;
+    
+}
+.div-img img{
+    width: 100%;
+}
+.all-div{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    margin: 5%;
+}
+.div-pa{
+    padding: 15px;
+}
+.footer{
+    text-align: center;
+    margin-top: 250px;
+    background-color: black;
+    height: 100px;
+    margin: 0;
+}
+.rong{
+    color: orangered;
+}
+.rong-w{
+    color: white;
+}
